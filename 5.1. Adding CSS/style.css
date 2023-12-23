@@ -4,3 +4,15 @@ h1 {
 h2 {
     color: green;
 }
+#title {
+    background-color: cornflowerblue;
+}
+.block {
+    width: 50%;
+    padding: 20px;
+    margin: 100px auto;
+    border: 10px solid black;
+    border-radius: 50px;
+
+
+}
